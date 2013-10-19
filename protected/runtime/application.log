@@ -1,0 +1,238 @@
+2013/10/19 11:49:51 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "img/close.png".' in D:\products\largewall\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\products\largewall\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('img/close.png')
+#1 D:\products\largewall\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 D:\products\largewall\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/index.php/img/close.png
+HTTP_REFERER=http://largewall.localhost.dev/index.php/
+---
+2013/10/19 11:49:51 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "img/loading.gif".' in D:\products\largewall\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\products\largewall\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('img/loading.gif')
+#1 D:\products\largewall\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 D:\products\largewall\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/index.php/img/loading.gif
+HTTP_REFERER=http://largewall.localhost.dev/index.php/
+---
+2013/10/19 11:51:01 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "img".' in D:\products\largewall\yii\framework\web\CController.php:483
+Stack trace:
+#0 D:\products\largewall\yii\framework\web\CController.php(270): CController->missingAction('img')
+#1 D:\products\largewall\yii\framework\web\CWebApplication.php(282): CController->run('img')
+#2 D:\products\largewall\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('site/img/close....')
+#3 D:\products\largewall\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 D:\products\largewall\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/index.php/site/img/close.png
+HTTP_REFERER=http://largewall.localhost.dev/index.php/site/index
+---
+2013/10/19 11:51:01 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "img".' in D:\products\largewall\yii\framework\web\CController.php:483
+Stack trace:
+#0 D:\products\largewall\yii\framework\web\CController.php(270): CController->missingAction('img')
+#1 D:\products\largewall\yii\framework\web\CWebApplication.php(282): CController->run('img')
+#2 D:\products\largewall\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('site/img/loadin...')
+#3 D:\products\largewall\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 D:\products\largewall\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/index.php/site/img/loading.gif
+HTTP_REFERER=http://largewall.localhost.dev/index.php/site/index
+---
+2013/10/19 11:56:28 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "img".' in D:\products\largewall\yii\framework\web\CController.php:483
+Stack trace:
+#0 D:\products\largewall\yii\framework\web\CController.php(270): CController->missingAction('img')
+#1 D:\products\largewall\yii\framework\web\CWebApplication.php(282): CController->run('img')
+#2 D:\products\largewall\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('site/img/loadin...')
+#3 D:\products\largewall\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 D:\products\largewall\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/index.php/site/img/loading.gif
+HTTP_REFERER=http://largewall.localhost.dev/index.php/site/login
+---
+2013/10/19 11:56:28 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "img".' in D:\products\largewall\yii\framework\web\CController.php:483
+Stack trace:
+#0 D:\products\largewall\yii\framework\web\CController.php(270): CController->missingAction('img')
+#1 D:\products\largewall\yii\framework\web\CWebApplication.php(282): CController->run('img')
+#2 D:\products\largewall\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('site/img/close....')
+#3 D:\products\largewall\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 D:\products\largewall\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/index.php/site/img/close.png
+HTTP_REFERER=http://largewall.localhost.dev/index.php/site/login
+---
+2013/10/19 12:19:44 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "img".' in D:\products\largewall\yii\framework\web\CController.php:483
+Stack trace:
+#0 D:\products\largewall\yii\framework\web\CController.php(270): CController->missingAction('img')
+#1 D:\products\largewall\yii\framework\web\CWebApplication.php(282): CController->run('img')
+#2 D:\products\largewall\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('site/img/loadin...')
+#3 D:\products\largewall\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 D:\products\largewall\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/index.php/site/img/loading.gif
+HTTP_REFERER=http://largewall.localhost.dev/index.php/site/page?view=columns
+---
+2013/10/19 12:19:44 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "img".' in D:\products\largewall\yii\framework\web\CController.php:483
+Stack trace:
+#0 D:\products\largewall\yii\framework\web\CController.php(270): CController->missingAction('img')
+#1 D:\products\largewall\yii\framework\web\CWebApplication.php(282): CController->run('img')
+#2 D:\products\largewall\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('site/img/close....')
+#3 D:\products\largewall\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 D:\products\largewall\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/index.php/site/img/close.png
+HTTP_REFERER=http://largewall.localhost.dev/index.php/site/page?view=columns
+---
+2013/10/19 12:20:00 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "img".' in D:\products\largewall\yii\framework\web\CController.php:483
+Stack trace:
+#0 D:\products\largewall\yii\framework\web\CController.php(270): CController->missingAction('img')
+#1 D:\products\largewall\yii\framework\web\CWebApplication.php(282): CController->run('img')
+#2 D:\products\largewall\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('site/img/loadin...')
+#3 D:\products\largewall\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 D:\products\largewall\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/index.php/site/img/loading.gif
+HTTP_REFERER=http://largewall.localhost.dev/index.php/site/page?view=pricing-tables
+---
+2013/10/19 12:20:00 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "img".' in D:\products\largewall\yii\framework\web\CController.php:483
+Stack trace:
+#0 D:\products\largewall\yii\framework\web\CController.php(270): CController->missingAction('img')
+#1 D:\products\largewall\yii\framework\web\CWebApplication.php(282): CController->run('img')
+#2 D:\products\largewall\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('site/img/close....')
+#3 D:\products\largewall\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 D:\products\largewall\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/index.php/site/img/close.png
+HTTP_REFERER=http://largewall.localhost.dev/index.php/site/page?view=pricing-tables
+---
+2013/10/19 12:20:15 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "img".' in D:\products\largewall\yii\framework\web\CController.php:483
+Stack trace:
+#0 D:\products\largewall\yii\framework\web\CController.php(270): CController->missingAction('img')
+#1 D:\products\largewall\yii\framework\web\CWebApplication.php(282): CController->run('img')
+#2 D:\products\largewall\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('site/img/close....')
+#3 D:\products\largewall\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 D:\products\largewall\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/index.php/site/img/close.png
+HTTP_REFERER=http://largewall.localhost.dev/index.php/site/page?view=elements
+---
+2013/10/19 12:20:15 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "img".' in D:\products\largewall\yii\framework\web\CController.php:483
+Stack trace:
+#0 D:\products\largewall\yii\framework\web\CController.php(270): CController->missingAction('img')
+#1 D:\products\largewall\yii\framework\web\CWebApplication.php(282): CController->run('img')
+#2 D:\products\largewall\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('site/img/loadin...')
+#3 D:\products\largewall\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 D:\products\largewall\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/index.php/site/img/loading.gif
+HTTP_REFERER=http://largewall.localhost.dev/index.php/site/page?view=elements
+---
+2013/10/19 12:20:30 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "img".' in D:\products\largewall\yii\framework\web\CController.php:483
+Stack trace:
+#0 D:\products\largewall\yii\framework\web\CController.php(270): CController->missingAction('img')
+#1 D:\products\largewall\yii\framework\web\CWebApplication.php(282): CController->run('img')
+#2 D:\products\largewall\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('site/img/loadin...')
+#3 D:\products\largewall\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 D:\products\largewall\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/index.php/site/img/loading.gif
+HTTP_REFERER=http://largewall.localhost.dev/index.php/site/page?view=home2
+---
+2013/10/19 12:20:30 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "img".' in D:\products\largewall\yii\framework\web\CController.php:483
+Stack trace:
+#0 D:\products\largewall\yii\framework\web\CController.php(270): CController->missingAction('img')
+#1 D:\products\largewall\yii\framework\web\CWebApplication.php(282): CController->run('img')
+#2 D:\products\largewall\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('site/img/close....')
+#3 D:\products\largewall\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 D:\products\largewall\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/index.php/site/img/close.png
+HTTP_REFERER=http://largewall.localhost.dev/index.php/site/page?view=home2
+---
+2013/10/19 12:20:34 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "img".' in D:\products\largewall\yii\framework\web\CController.php:483
+Stack trace:
+#0 D:\products\largewall\yii\framework\web\CController.php(270): CController->missingAction('img')
+#1 D:\products\largewall\yii\framework\web\CWebApplication.php(282): CController->run('img')
+#2 D:\products\largewall\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('site/img/loadin...')
+#3 D:\products\largewall\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 D:\products\largewall\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/index.php/site/img/loading.gif
+HTTP_REFERER=http://largewall.localhost.dev/index.php/site/page?view=home3
+---
+2013/10/19 12:20:34 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "img".' in D:\products\largewall\yii\framework\web\CController.php:483
+Stack trace:
+#0 D:\products\largewall\yii\framework\web\CController.php(270): CController->missingAction('img')
+#1 D:\products\largewall\yii\framework\web\CWebApplication.php(282): CController->run('img')
+#2 D:\products\largewall\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('site/img/close....')
+#3 D:\products\largewall\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 D:\products\largewall\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/index.php/site/img/close.png
+HTTP_REFERER=http://largewall.localhost.dev/index.php/site/page?view=home3
+---
+2013/10/19 12:20:39 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "img".' in D:\products\largewall\yii\framework\web\CController.php:483
+Stack trace:
+#0 D:\products\largewall\yii\framework\web\CController.php(270): CController->missingAction('img')
+#1 D:\products\largewall\yii\framework\web\CWebApplication.php(282): CController->run('img')
+#2 D:\products\largewall\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('site/img/loadin...')
+#3 D:\products\largewall\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 D:\products\largewall\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/index.php/site/img/loading.gif
+HTTP_REFERER=http://largewall.localhost.dev/index.php/site/page?view=home4
+---
+2013/10/19 12:20:39 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "img".' in D:\products\largewall\yii\framework\web\CController.php:483
+Stack trace:
+#0 D:\products\largewall\yii\framework\web\CController.php(270): CController->missingAction('img')
+#1 D:\products\largewall\yii\framework\web\CWebApplication.php(282): CController->run('img')
+#2 D:\products\largewall\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('site/img/close....')
+#3 D:\products\largewall\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 D:\products\largewall\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/index.php/site/img/close.png
+HTTP_REFERER=http://largewall.localhost.dev/index.php/site/page?view=home4
+---
+2013/10/19 12:20:57 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "img".' in D:\products\largewall\yii\framework\web\CController.php:483
+Stack trace:
+#0 D:\products\largewall\yii\framework\web\CController.php(270): CController->missingAction('img')
+#1 D:\products\largewall\yii\framework\web\CWebApplication.php(282): CController->run('img')
+#2 D:\products\largewall\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('site/img/loadin...')
+#3 D:\products\largewall\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 D:\products\largewall\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/index.php/site/img/loading.gif
+HTTP_REFERER=http://largewall.localhost.dev/index.php/site/page?view=home5
+---
+2013/10/19 12:20:57 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "img".' in D:\products\largewall\yii\framework\web\CController.php:483
+Stack trace:
+#0 D:\products\largewall\yii\framework\web\CController.php(270): CController->missingAction('img')
+#1 D:\products\largewall\yii\framework\web\CWebApplication.php(282): CController->run('img')
+#2 D:\products\largewall\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('site/img/close....')
+#3 D:\products\largewall\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 D:\products\largewall\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/index.php/site/img/close.png
+HTTP_REFERER=http://largewall.localhost.dev/index.php/site/page?view=home5
+---
+2013/10/19 12:21:04 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "img".' in D:\products\largewall\yii\framework\web\CController.php:483
+Stack trace:
+#0 D:\products\largewall\yii\framework\web\CController.php(270): CController->missingAction('img')
+#1 D:\products\largewall\yii\framework\web\CWebApplication.php(282): CController->run('img')
+#2 D:\products\largewall\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('site/img/close....')
+#3 D:\products\largewall\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 D:\products\largewall\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/index.php/site/img/close.png
+HTTP_REFERER=http://largewall.localhost.dev/index.php/site/page?view=home6
+---
+2013/10/19 12:21:04 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "img".' in D:\products\largewall\yii\framework\web\CController.php:483
+Stack trace:
+#0 D:\products\largewall\yii\framework\web\CController.php(270): CController->missingAction('img')
+#1 D:\products\largewall\yii\framework\web\CWebApplication.php(282): CController->run('img')
+#2 D:\products\largewall\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('site/img/loadin...')
+#3 D:\products\largewall\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 D:\products\largewall\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/index.php/site/img/loading.gif
+HTTP_REFERER=http://largewall.localhost.dev/index.php/site/page?view=home6
+---
