@@ -1,0 +1,17 @@
+@CHARSET "ISO-8859-1";
+.home-page-wrapper{
+	background-image: url("/images/white-wall.jpg");
+}
+.promotional-space-wrapper{
+	min-height: 600px;
+	min-width:800px;	
+}
+.free-space-wrapper {
+	min-height: 500px;
+	min-width:800px;
+}
+.advertise-here{
+    display: inline-block !important;
+    vertical-align: middle !important;
+}
+

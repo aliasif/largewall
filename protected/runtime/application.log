@@ -4411,3 +4411,487 @@ Stack trace:
 REQUEST_URI=/index.php/site/img/close.png
 HTTP_REFERER=http://largewall.localhost.dev/index.php/site/index
 ---
+2013/10/21 02:06:08 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "img".' in D:\products\largewall\yii\framework\web\CController.php:483
+Stack trace:
+#0 D:\products\largewall\yii\framework\web\CController.php(270): CController->missingAction('img')
+#1 D:\products\largewall\yii\framework\web\CWebApplication.php(282): CController->run('img')
+#2 D:\products\largewall\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('spaceOrders/img...')
+#3 D:\products\largewall\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 D:\products\largewall\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/index.php/spaceOrders/img/close.png
+HTTP_REFERER=http://largewall.localhost.dev/index.php/spaceOrders/index
+---
+2013/10/21 02:06:08 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "img".' in D:\products\largewall\yii\framework\web\CController.php:483
+Stack trace:
+#0 D:\products\largewall\yii\framework\web\CController.php(270): CController->missingAction('img')
+#1 D:\products\largewall\yii\framework\web\CWebApplication.php(282): CController->run('img')
+#2 D:\products\largewall\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('spaceOrders/img...')
+#3 D:\products\largewall\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 D:\products\largewall\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/index.php/spaceOrders/img/loading.gif
+HTTP_REFERER=http://largewall.localhost.dev/index.php/spaceOrders/index
+---
+2013/10/21 02:06:19 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "img".' in D:\products\largewall\yii\framework\web\CController.php:483
+Stack trace:
+#0 D:\products\largewall\yii\framework\web\CController.php(270): CController->missingAction('img')
+#1 D:\products\largewall\yii\framework\web\CWebApplication.php(282): CController->run('img')
+#2 D:\products\largewall\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('spaceOrders/img...')
+#3 D:\products\largewall\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 D:\products\largewall\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/index.php/spaceOrders/img/close.png
+HTTP_REFERER=http://largewall.localhost.dev/index.php/spaceOrders/index
+---
+2013/10/21 02:06:19 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "img".' in D:\products\largewall\yii\framework\web\CController.php:483
+Stack trace:
+#0 D:\products\largewall\yii\framework\web\CController.php(270): CController->missingAction('img')
+#1 D:\products\largewall\yii\framework\web\CWebApplication.php(282): CController->run('img')
+#2 D:\products\largewall\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('spaceOrders/img...')
+#3 D:\products\largewall\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 D:\products\largewall\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/index.php/spaceOrders/img/loading.gif
+HTTP_REFERER=http://largewall.localhost.dev/index.php/spaceOrders/index
+---
+2013/10/21 02:06:21 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "img".' in D:\products\largewall\yii\framework\web\CController.php:483
+Stack trace:
+#0 D:\products\largewall\yii\framework\web\CController.php(270): CController->missingAction('img')
+#1 D:\products\largewall\yii\framework\web\CWebApplication.php(282): CController->run('img')
+#2 D:\products\largewall\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('site/img/loadin...')
+#3 D:\products\largewall\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 D:\products\largewall\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/index.php/site/img/loading.gif
+HTTP_REFERER=http://largewall.localhost.dev/index.php/site/login
+---
+2013/10/21 02:06:21 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "img".' in D:\products\largewall\yii\framework\web\CController.php:483
+Stack trace:
+#0 D:\products\largewall\yii\framework\web\CController.php(270): CController->missingAction('img')
+#1 D:\products\largewall\yii\framework\web\CWebApplication.php(282): CController->run('img')
+#2 D:\products\largewall\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('site/img/close....')
+#3 D:\products\largewall\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 D:\products\largewall\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/index.php/site/img/close.png
+HTTP_REFERER=http://largewall.localhost.dev/index.php/site/login
+---
+2013/10/21 02:06:29 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "img".' in D:\products\largewall\yii\framework\web\CController.php:483
+Stack trace:
+#0 D:\products\largewall\yii\framework\web\CController.php(270): CController->missingAction('img')
+#1 D:\products\largewall\yii\framework\web\CWebApplication.php(282): CController->run('img')
+#2 D:\products\largewall\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('spaceOrders/img...')
+#3 D:\products\largewall\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 D:\products\largewall\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/index.php/spaceOrders/img/loading.gif
+HTTP_REFERER=http://largewall.localhost.dev/index.php/spaceOrders/create
+---
+2013/10/21 02:06:29 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "img".' in D:\products\largewall\yii\framework\web\CController.php:483
+Stack trace:
+#0 D:\products\largewall\yii\framework\web\CController.php(270): CController->missingAction('img')
+#1 D:\products\largewall\yii\framework\web\CWebApplication.php(282): CController->run('img')
+#2 D:\products\largewall\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('spaceOrders/img...')
+#3 D:\products\largewall\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 D:\products\largewall\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/index.php/spaceOrders/img/close.png
+HTTP_REFERER=http://largewall.localhost.dev/index.php/spaceOrders/create
+---
+2013/10/21 02:07:50 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "img".' in D:\products\largewall\yii\framework\web\CController.php:483
+Stack trace:
+#0 D:\products\largewall\yii\framework\web\CController.php(270): CController->missingAction('img')
+#1 D:\products\largewall\yii\framework\web\CWebApplication.php(282): CController->run('img')
+#2 D:\products\largewall\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('spaceOrders/img...')
+#3 D:\products\largewall\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 D:\products\largewall\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/index.php/spaceOrders/img/close.png
+HTTP_REFERER=http://largewall.localhost.dev/index.php/spaceOrders/create
+---
+2013/10/21 02:07:50 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "img".' in D:\products\largewall\yii\framework\web\CController.php:483
+Stack trace:
+#0 D:\products\largewall\yii\framework\web\CController.php(270): CController->missingAction('img')
+#1 D:\products\largewall\yii\framework\web\CWebApplication.php(282): CController->run('img')
+#2 D:\products\largewall\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('spaceOrders/img...')
+#3 D:\products\largewall\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 D:\products\largewall\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/index.php/spaceOrders/img/loading.gif
+HTTP_REFERER=http://largewall.localhost.dev/index.php/spaceOrders/create
+---
+2013/10/21 02:07:57 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "img".' in D:\products\largewall\yii\framework\web\CController.php:483
+Stack trace:
+#0 D:\products\largewall\yii\framework\web\CController.php(270): CController->missingAction('img')
+#1 D:\products\largewall\yii\framework\web\CWebApplication.php(282): CController->run('img')
+#2 D:\products\largewall\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('spaceOrders/img...')
+#3 D:\products\largewall\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 D:\products\largewall\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/index.php/spaceOrders/img/loading.gif
+HTTP_REFERER=http://largewall.localhost.dev/index.php/spaceOrders/create
+---
+2013/10/21 02:07:57 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "img".' in D:\products\largewall\yii\framework\web\CController.php:483
+Stack trace:
+#0 D:\products\largewall\yii\framework\web\CController.php(270): CController->missingAction('img')
+#1 D:\products\largewall\yii\framework\web\CWebApplication.php(282): CController->run('img')
+#2 D:\products\largewall\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('spaceOrders/img...')
+#3 D:\products\largewall\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 D:\products\largewall\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/index.php/spaceOrders/img/close.png
+HTTP_REFERER=http://largewall.localhost.dev/index.php/spaceOrders/create
+---
+2013/10/21 02:08:09 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "img".' in D:\products\largewall\yii\framework\web\CController.php:483
+Stack trace:
+#0 D:\products\largewall\yii\framework\web\CController.php(270): CController->missingAction('img')
+#1 D:\products\largewall\yii\framework\web\CWebApplication.php(282): CController->run('img')
+#2 D:\products\largewall\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('spaceOrders/img...')
+#3 D:\products\largewall\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 D:\products\largewall\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/index.php/spaceOrders/img/loading.gif
+HTTP_REFERER=http://largewall.localhost.dev/index.php/spaceOrders/create
+---
+2013/10/21 02:08:09 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "img".' in D:\products\largewall\yii\framework\web\CController.php:483
+Stack trace:
+#0 D:\products\largewall\yii\framework\web\CController.php(270): CController->missingAction('img')
+#1 D:\products\largewall\yii\framework\web\CWebApplication.php(282): CController->run('img')
+#2 D:\products\largewall\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('spaceOrders/img...')
+#3 D:\products\largewall\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 D:\products\largewall\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/index.php/spaceOrders/img/close.png
+HTTP_REFERER=http://largewall.localhost.dev/index.php/spaceOrders/create
+---
+2013/10/21 02:08:23 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "img".' in D:\products\largewall\yii\framework\web\CController.php:483
+Stack trace:
+#0 D:\products\largewall\yii\framework\web\CController.php(270): CController->missingAction('img')
+#1 D:\products\largewall\yii\framework\web\CWebApplication.php(282): CController->run('img')
+#2 D:\products\largewall\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('spaceOrders/img...')
+#3 D:\products\largewall\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 D:\products\largewall\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/index.php/spaceOrders/img/close.png
+HTTP_REFERER=http://largewall.localhost.dev/index.php/spaceOrders/create
+---
+2013/10/21 02:08:23 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "img".' in D:\products\largewall\yii\framework\web\CController.php:483
+Stack trace:
+#0 D:\products\largewall\yii\framework\web\CController.php(270): CController->missingAction('img')
+#1 D:\products\largewall\yii\framework\web\CWebApplication.php(282): CController->run('img')
+#2 D:\products\largewall\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('spaceOrders/img...')
+#3 D:\products\largewall\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 D:\products\largewall\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/index.php/spaceOrders/img/loading.gif
+HTTP_REFERER=http://largewall.localhost.dev/index.php/spaceOrders/create
+---
+2013/10/21 02:10:28 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "img".' in D:\products\largewall\yii\framework\web\CController.php:483
+Stack trace:
+#0 D:\products\largewall\yii\framework\web\CController.php(270): CController->missingAction('img')
+#1 D:\products\largewall\yii\framework\web\CWebApplication.php(282): CController->run('img')
+#2 D:\products\largewall\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('spaceOrders/img...')
+#3 D:\products\largewall\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 D:\products\largewall\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/index.php/spaceOrders/img/loading.gif
+HTTP_REFERER=http://largewall.localhost.dev/index.php/spaceOrders/create
+---
+2013/10/21 02:10:28 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "img".' in D:\products\largewall\yii\framework\web\CController.php:483
+Stack trace:
+#0 D:\products\largewall\yii\framework\web\CController.php(270): CController->missingAction('img')
+#1 D:\products\largewall\yii\framework\web\CWebApplication.php(282): CController->run('img')
+#2 D:\products\largewall\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('spaceOrders/img...')
+#3 D:\products\largewall\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 D:\products\largewall\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/index.php/spaceOrders/img/close.png
+HTTP_REFERER=http://largewall.localhost.dev/index.php/spaceOrders/create
+---
+2013/10/21 02:12:36 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "img".' in D:\products\largewall\yii\framework\web\CController.php:483
+Stack trace:
+#0 D:\products\largewall\yii\framework\web\CController.php(270): CController->missingAction('img')
+#1 D:\products\largewall\yii\framework\web\CWebApplication.php(282): CController->run('img')
+#2 D:\products\largewall\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('spaceOrders/img...')
+#3 D:\products\largewall\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 D:\products\largewall\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/index.php/spaceOrders/img/close.png
+HTTP_REFERER=http://largewall.localhost.dev/index.php/spaceOrders/create
+---
+2013/10/21 02:12:36 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "img".' in D:\products\largewall\yii\framework\web\CController.php:483
+Stack trace:
+#0 D:\products\largewall\yii\framework\web\CController.php(270): CController->missingAction('img')
+#1 D:\products\largewall\yii\framework\web\CWebApplication.php(282): CController->run('img')
+#2 D:\products\largewall\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('spaceOrders/img...')
+#3 D:\products\largewall\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 D:\products\largewall\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/index.php/spaceOrders/img/loading.gif
+HTTP_REFERER=http://largewall.localhost.dev/index.php/spaceOrders/create
+---
+2013/10/21 02:42:14 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "img".' in D:\products\largewall\yii\framework\web\CController.php:483
+Stack trace:
+#0 D:\products\largewall\yii\framework\web\CController.php(270): CController->missingAction('img')
+#1 D:\products\largewall\yii\framework\web\CWebApplication.php(282): CController->run('img')
+#2 D:\products\largewall\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('spaceOrders/img...')
+#3 D:\products\largewall\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 D:\products\largewall\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/index.php/spaceOrders/img/close.png
+HTTP_REFERER=http://largewall.localhost.dev/index.php/spaceOrders/create
+---
+2013/10/21 02:42:14 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "img".' in D:\products\largewall\yii\framework\web\CController.php:483
+Stack trace:
+#0 D:\products\largewall\yii\framework\web\CController.php(270): CController->missingAction('img')
+#1 D:\products\largewall\yii\framework\web\CWebApplication.php(282): CController->run('img')
+#2 D:\products\largewall\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('spaceOrders/img...')
+#3 D:\products\largewall\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 D:\products\largewall\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/index.php/spaceOrders/img/loading.gif
+HTTP_REFERER=http://largewall.localhost.dev/index.php/spaceOrders/create
+---
+2013/10/21 02:43:16 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "img".' in D:\products\largewall\yii\framework\web\CController.php:483
+Stack trace:
+#0 D:\products\largewall\yii\framework\web\CController.php(270): CController->missingAction('img')
+#1 D:\products\largewall\yii\framework\web\CWebApplication.php(282): CController->run('img')
+#2 D:\products\largewall\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('spaceOrders/img...')
+#3 D:\products\largewall\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 D:\products\largewall\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/index.php/spaceOrders/img/loading.gif
+HTTP_REFERER=http://largewall.localhost.dev/index.php/spaceOrders/create
+---
+2013/10/21 02:43:16 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "img".' in D:\products\largewall\yii\framework\web\CController.php:483
+Stack trace:
+#0 D:\products\largewall\yii\framework\web\CController.php(270): CController->missingAction('img')
+#1 D:\products\largewall\yii\framework\web\CWebApplication.php(282): CController->run('img')
+#2 D:\products\largewall\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('spaceOrders/img...')
+#3 D:\products\largewall\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 D:\products\largewall\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/index.php/spaceOrders/img/close.png
+HTTP_REFERER=http://largewall.localhost.dev/index.php/spaceOrders/create
+---
+2013/10/21 02:43:53 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "img".' in D:\products\largewall\yii\framework\web\CController.php:483
+Stack trace:
+#0 D:\products\largewall\yii\framework\web\CController.php(270): CController->missingAction('img')
+#1 D:\products\largewall\yii\framework\web\CWebApplication.php(282): CController->run('img')
+#2 D:\products\largewall\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('spaceOrders/img...')
+#3 D:\products\largewall\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 D:\products\largewall\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/index.php/spaceOrders/img/close.png
+HTTP_REFERER=http://largewall.localhost.dev/index.php/spaceOrders/create
+---
+2013/10/21 02:43:53 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "img".' in D:\products\largewall\yii\framework\web\CController.php:483
+Stack trace:
+#0 D:\products\largewall\yii\framework\web\CController.php(270): CController->missingAction('img')
+#1 D:\products\largewall\yii\framework\web\CWebApplication.php(282): CController->run('img')
+#2 D:\products\largewall\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('spaceOrders/img...')
+#3 D:\products\largewall\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 D:\products\largewall\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/index.php/spaceOrders/img/loading.gif
+HTTP_REFERER=http://largewall.localhost.dev/index.php/spaceOrders/create
+---
+2013/10/21 02:44:23 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "img".' in D:\products\largewall\yii\framework\web\CController.php:483
+Stack trace:
+#0 D:\products\largewall\yii\framework\web\CController.php(270): CController->missingAction('img')
+#1 D:\products\largewall\yii\framework\web\CWebApplication.php(282): CController->run('img')
+#2 D:\products\largewall\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('spaceOrders/img...')
+#3 D:\products\largewall\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 D:\products\largewall\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/index.php/spaceOrders/img/close.png
+HTTP_REFERER=http://largewall.localhost.dev/index.php/spaceOrders/create
+---
+2013/10/21 02:44:23 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "img".' in D:\products\largewall\yii\framework\web\CController.php:483
+Stack trace:
+#0 D:\products\largewall\yii\framework\web\CController.php(270): CController->missingAction('img')
+#1 D:\products\largewall\yii\framework\web\CWebApplication.php(282): CController->run('img')
+#2 D:\products\largewall\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('spaceOrders/img...')
+#3 D:\products\largewall\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 D:\products\largewall\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/index.php/spaceOrders/img/loading.gif
+HTTP_REFERER=http://largewall.localhost.dev/index.php/spaceOrders/create
+---
+2013/10/21 02:46:38 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "img".' in D:\products\largewall\yii\framework\web\CController.php:483
+Stack trace:
+#0 D:\products\largewall\yii\framework\web\CController.php(270): CController->missingAction('img')
+#1 D:\products\largewall\yii\framework\web\CWebApplication.php(282): CController->run('img')
+#2 D:\products\largewall\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('spaceOrders/img...')
+#3 D:\products\largewall\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 D:\products\largewall\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/index.php/spaceOrders/img/close.png
+HTTP_REFERER=http://largewall.localhost.dev/index.php/spaceOrders/create
+---
+2013/10/21 02:46:38 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "img".' in D:\products\largewall\yii\framework\web\CController.php:483
+Stack trace:
+#0 D:\products\largewall\yii\framework\web\CController.php(270): CController->missingAction('img')
+#1 D:\products\largewall\yii\framework\web\CWebApplication.php(282): CController->run('img')
+#2 D:\products\largewall\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('spaceOrders/img...')
+#3 D:\products\largewall\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 D:\products\largewall\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/index.php/spaceOrders/img/loading.gif
+HTTP_REFERER=http://largewall.localhost.dev/index.php/spaceOrders/create
+---
+2013/10/21 02:52:06 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "img".' in D:\products\largewall\yii\framework\web\CController.php:483
+Stack trace:
+#0 D:\products\largewall\yii\framework\web\CController.php(270): CController->missingAction('img')
+#1 D:\products\largewall\yii\framework\web\CWebApplication.php(282): CController->run('img')
+#2 D:\products\largewall\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('spaceOrders/img...')
+#3 D:\products\largewall\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 D:\products\largewall\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/index.php/spaceOrders/img/close.png
+HTTP_REFERER=http://largewall.localhost.dev/index.php/spaceOrders/create
+---
+2013/10/21 02:52:06 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "img".' in D:\products\largewall\yii\framework\web\CController.php:483
+Stack trace:
+#0 D:\products\largewall\yii\framework\web\CController.php(270): CController->missingAction('img')
+#1 D:\products\largewall\yii\framework\web\CWebApplication.php(282): CController->run('img')
+#2 D:\products\largewall\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('spaceOrders/img...')
+#3 D:\products\largewall\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 D:\products\largewall\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/index.php/spaceOrders/img/loading.gif
+HTTP_REFERER=http://largewall.localhost.dev/index.php/spaceOrders/create
+---
+2013/10/21 02:54:05 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "img".' in D:\products\largewall\yii\framework\web\CController.php:483
+Stack trace:
+#0 D:\products\largewall\yii\framework\web\CController.php(270): CController->missingAction('img')
+#1 D:\products\largewall\yii\framework\web\CWebApplication.php(282): CController->run('img')
+#2 D:\products\largewall\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('spaceOrders/img...')
+#3 D:\products\largewall\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 D:\products\largewall\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/index.php/spaceOrders/img/close.png
+HTTP_REFERER=http://largewall.localhost.dev/index.php/spaceOrders/create
+---
+2013/10/21 02:54:05 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "img".' in D:\products\largewall\yii\framework\web\CController.php:483
+Stack trace:
+#0 D:\products\largewall\yii\framework\web\CController.php(270): CController->missingAction('img')
+#1 D:\products\largewall\yii\framework\web\CWebApplication.php(282): CController->run('img')
+#2 D:\products\largewall\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('spaceOrders/img...')
+#3 D:\products\largewall\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 D:\products\largewall\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/index.php/spaceOrders/img/loading.gif
+HTTP_REFERER=http://largewall.localhost.dev/index.php/spaceOrders/create
+---
+2013/10/21 02:56:32 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "img".' in D:\products\largewall\yii\framework\web\CController.php:483
+Stack trace:
+#0 D:\products\largewall\yii\framework\web\CController.php(270): CController->missingAction('img')
+#1 D:\products\largewall\yii\framework\web\CWebApplication.php(282): CController->run('img')
+#2 D:\products\largewall\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('spaceOrders/img...')
+#3 D:\products\largewall\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 D:\products\largewall\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/index.php/spaceOrders/img/close.png
+HTTP_REFERER=http://largewall.localhost.dev/index.php/spaceOrders/create
+---
+2013/10/21 02:56:32 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "img".' in D:\products\largewall\yii\framework\web\CController.php:483
+Stack trace:
+#0 D:\products\largewall\yii\framework\web\CController.php(270): CController->missingAction('img')
+#1 D:\products\largewall\yii\framework\web\CWebApplication.php(282): CController->run('img')
+#2 D:\products\largewall\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('spaceOrders/img...')
+#3 D:\products\largewall\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 D:\products\largewall\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/index.php/spaceOrders/img/loading.gif
+HTTP_REFERER=http://largewall.localhost.dev/index.php/spaceOrders/create
+---
+2013/10/21 02:57:10 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "img".' in D:\products\largewall\yii\framework\web\CController.php:483
+Stack trace:
+#0 D:\products\largewall\yii\framework\web\CController.php(270): CController->missingAction('img')
+#1 D:\products\largewall\yii\framework\web\CWebApplication.php(282): CController->run('img')
+#2 D:\products\largewall\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('spaceOrders/img...')
+#3 D:\products\largewall\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 D:\products\largewall\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/index.php/spaceOrders/img/close.png
+HTTP_REFERER=http://largewall.localhost.dev/index.php/spaceOrders/create
+---
+2013/10/21 02:57:10 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "img".' in D:\products\largewall\yii\framework\web\CController.php:483
+Stack trace:
+#0 D:\products\largewall\yii\framework\web\CController.php(270): CController->missingAction('img')
+#1 D:\products\largewall\yii\framework\web\CWebApplication.php(282): CController->run('img')
+#2 D:\products\largewall\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('spaceOrders/img...')
+#3 D:\products\largewall\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 D:\products\largewall\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/index.php/spaceOrders/img/loading.gif
+HTTP_REFERER=http://largewall.localhost.dev/index.php/spaceOrders/create
+---
+2013/10/21 02:58:53 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "img".' in D:\products\largewall\yii\framework\web\CController.php:483
+Stack trace:
+#0 D:\products\largewall\yii\framework\web\CController.php(270): CController->missingAction('img')
+#1 D:\products\largewall\yii\framework\web\CWebApplication.php(282): CController->run('img')
+#2 D:\products\largewall\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('spaceOrders/img...')
+#3 D:\products\largewall\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 D:\products\largewall\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/index.php/spaceOrders/img/loading.gif
+HTTP_REFERER=http://largewall.localhost.dev/index.php/spaceOrders/create
+---
+2013/10/21 02:58:53 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "img".' in D:\products\largewall\yii\framework\web\CController.php:483
+Stack trace:
+#0 D:\products\largewall\yii\framework\web\CController.php(270): CController->missingAction('img')
+#1 D:\products\largewall\yii\framework\web\CWebApplication.php(282): CController->run('img')
+#2 D:\products\largewall\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('spaceOrders/img...')
+#3 D:\products\largewall\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 D:\products\largewall\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/index.php/spaceOrders/img/close.png
+HTTP_REFERER=http://largewall.localhost.dev/index.php/spaceOrders/create
+---
+2013/10/21 03:00:08 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "img".' in D:\products\largewall\yii\framework\web\CController.php:483
+Stack trace:
+#0 D:\products\largewall\yii\framework\web\CController.php(270): CController->missingAction('img')
+#1 D:\products\largewall\yii\framework\web\CWebApplication.php(282): CController->run('img')
+#2 D:\products\largewall\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('spaceOrders/img...')
+#3 D:\products\largewall\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 D:\products\largewall\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/index.php/spaceOrders/img/loading.gif
+HTTP_REFERER=http://largewall.localhost.dev/index.php/spaceOrders/create
+---
+2013/10/21 03:00:08 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "img".' in D:\products\largewall\yii\framework\web\CController.php:483
+Stack trace:
+#0 D:\products\largewall\yii\framework\web\CController.php(270): CController->missingAction('img')
+#1 D:\products\largewall\yii\framework\web\CWebApplication.php(282): CController->run('img')
+#2 D:\products\largewall\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('spaceOrders/img...')
+#3 D:\products\largewall\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 D:\products\largewall\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/index.php/spaceOrders/img/close.png
+HTTP_REFERER=http://largewall.localhost.dev/index.php/spaceOrders/create
+---
+2013/10/21 03:00:19 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "img".' in D:\products\largewall\yii\framework\web\CController.php:483
+Stack trace:
+#0 D:\products\largewall\yii\framework\web\CController.php(270): CController->missingAction('img')
+#1 D:\products\largewall\yii\framework\web\CWebApplication.php(282): CController->run('img')
+#2 D:\products\largewall\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('spaceOrders/img...')
+#3 D:\products\largewall\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 D:\products\largewall\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/index.php/spaceOrders/img/loading.gif
+HTTP_REFERER=http://largewall.localhost.dev/index.php/spaceOrders/create
+---
+2013/10/21 03:00:19 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "img".' in D:\products\largewall\yii\framework\web\CController.php:483
+Stack trace:
+#0 D:\products\largewall\yii\framework\web\CController.php(270): CController->missingAction('img')
+#1 D:\products\largewall\yii\framework\web\CWebApplication.php(282): CController->run('img')
+#2 D:\products\largewall\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('spaceOrders/img...')
+#3 D:\products\largewall\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 D:\products\largewall\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/index.php/spaceOrders/img/close.png
+HTTP_REFERER=http://largewall.localhost.dev/index.php/spaceOrders/create
+---
